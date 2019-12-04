@@ -1,15 +1,15 @@
 /*feuille de style pour le premier repo*/
 
 body {
-    background-color:blanchedalmond;
+    background-color:#f4f4f4;
 }
 
 h1 {
-    background-color:#801336;
+    background-color:burlywood;
     color:darkred
 }
 
 p {
-    background-color:burlywood;
+    background-color:#f4efd3;
     color:darkred;
 }
