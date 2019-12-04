@@ -7,3 +7,8 @@ body {
 h1 {
     background-color:#801336;
 }
+
+p {
+    background-color:burlywood;
+    color:darkred;
+}
